@@ -3,6 +3,7 @@ My first Repository
 
 
 **What's Wrong with Secretary Kim**
+
 *characters:*
 1. Park Seo-joon
 2. Park Min-Young
